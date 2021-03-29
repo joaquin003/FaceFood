@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703802299738",
+    "project_id": "facefood-5a7c2",
+    "storage_bucket": "facefood-5a7c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703802299738:android:96bdd46bb80ed01e958f63",
+        "android_client_info": {
+          "package_name": "com.example.facefood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703802299738-eqdq1k9eitjobvel7bcmod9cc7p9j6ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD95SxcaLCYaXDkaaqEad4cklYCzK4tXsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703802299738-eqdq1k9eitjobvel7bcmod9cc7p9j6ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
